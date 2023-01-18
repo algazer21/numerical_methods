@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                     CIMAT 22/9/2022
+                        22/9/2022
 Método Iteracion en subespacio Inverso para NE valores propios
 ***************************************************************/
 
