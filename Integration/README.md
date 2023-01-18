@@ -1,8 +1,8 @@
 Algorithms for calculate integrals:
 <ol>
-  <li>Elemento 1</li>
-  <li>Elemento 2</li>
-  <li>Elemento N</li>
-  <li>Elemento N</li>
-  <li>Elemento N</li>
+  <li>Montecarlo</li>
+  <li>Montecarlo 3D</li>
+  <li>Gaussian Quadrature</li>
+  <li>Newton-Cotes</li>
+  <li>Roomberg</li>
 </ol>
