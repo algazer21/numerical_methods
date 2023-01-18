@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                     CIMAT 11/10/2022
+                        11/10/2022
     Interpola una funcion f(x) usando splines lineales 
 ***************************************************************/
 
