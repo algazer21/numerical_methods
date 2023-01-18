@@ -1,7 +1,6 @@
 /*********************************************
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 8/9/2022
+8/9/2022
 Encuentra el valor y vector propio más grandes de A
 *********************************************/
 #include <stdio.h>
