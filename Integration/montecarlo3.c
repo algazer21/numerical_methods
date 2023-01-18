@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                     CIMAT 20/10/2022
+                        20/10/2022
    Resuelve numericamente integrales dobles usando Montecarlo
    Hay que ingresar manualmente el valor del max y min de la 
    funcion en el intervalo como hM y hm respectivamente.
