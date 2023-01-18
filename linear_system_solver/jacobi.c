@@ -1,7 +1,6 @@
 /*********************************************
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 3/8/2022
+3/8/2022
 Resuelve Ax=b por el método de Jacobi.
 *********************************************/
 #include <stdio.h>
