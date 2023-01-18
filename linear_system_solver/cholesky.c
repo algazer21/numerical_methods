@@ -1,7 +1,6 @@
 /*********************************************
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 2/8/2022
+2/8/2022
 Resuelve Ax=b por el método de Cholesky.
 *********************************************/
 #include <stdio.h>
