@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                      CIMAT 5/11/2022
+                         5/11/2022
  Integra funciones en el intervalo dado con Cuadratura de Gauss
 ***************************************************************/
 #include <stdio.h>
