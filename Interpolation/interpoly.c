@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos
-                     CIMAT 6/10/2022
+                        6/10/2022
             Interpola funciones usando polinomios 
 ***************************************************************/
 
