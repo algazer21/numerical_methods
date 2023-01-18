@@ -1,8 +1,7 @@
 /*********************************************
 Método de bisección
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 23/8/2022
+3/8/2022
 *********************************************/
 
 #include <stdio.h>
