@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                     CIMAT 17/10/2022
+                        17/10/2022
              Integra funciones usando Montecarlo
 ***************************************************************/
 
