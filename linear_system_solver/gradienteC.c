@@ -26,15 +26,15 @@ int main(void){
     clock_t t = clock();
     double time,er;
     FILE    *fptr;
-    fptr = fopen("M_sys_125x125.txt", "r");
+    fptr = fopen("A.txt", "r");
     fscanf(fptr, "%d %d", &n,&m);
     fclose(fptr);
     double **A = (double **)malloc(n*sizeof(double*));
     double *b = (double *)malloc(n*sizeof(double));
     double *x = (double *)malloc(n*sizeof(double));
 
-    readmatrix(n, m, A, "M_sys_125x125.txt");
-    readvector(n, b, "V_sys_125x1.txt");
+    readmatrix(n, m, A, "A.txt");
+    readvector(n, b, "b.txt");
     gradienteC(n,A,b,x, 10e-10);
     writevector(n,x,"x.txt");
     er = error(n,A,x,b);
