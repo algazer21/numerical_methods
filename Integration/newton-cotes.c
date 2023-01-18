@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                     CIMAT 24/10/2022
+                        24/10/2022
     Integra funciones en el intervalo dado con Newton-Cotes
  Divide el intervalo en p funciones polinomiales (Bool's rule)
 ***************************************************************/
