@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                     CIMAT 20/9/2022
+                         20/9/2022
 Aplica Factorizacion QR para resolver sistemas Ax=b De forma que 
                          QRx = b
                       Q^tQRx = Q^tb
