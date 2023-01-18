@@ -1,7 +1,6 @@
 /*********************************************
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 26/8/2022
+26/8/2022
 Resuelve Ax=b por el método de Crout.
 *********************************************/
 #include <stdio.h>
