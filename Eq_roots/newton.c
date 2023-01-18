@@ -1,8 +1,7 @@
 /*********************************************
 Método de Newton-Raphson
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 24/8/2022
+24/8/2022
 *********************************************/
 
 #include <stdio.h>
