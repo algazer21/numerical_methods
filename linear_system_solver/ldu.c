@@ -1,7 +1,6 @@
 /*********************************************
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 28/8/2022
+28/8/2022
 Resuelve Ax=b por el método de LDU.
 *********************************************/
 #include <stdio.h>
