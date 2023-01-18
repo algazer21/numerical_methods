@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                     CIMAT 30/10/2022
+                        30/10/2022
       Integra funciones en el intervalo dado con Roomberg
 ***************************************************************/
 #include <stdio.h>
