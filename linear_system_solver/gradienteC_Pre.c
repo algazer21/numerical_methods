@@ -1,7 +1,6 @@
 /*********************************************
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 20/9/2022
+20/9/2022
 Resuelve sistemas Ax=b usando Gradiente Conjugado
 con precondicionamiento de Jacobi.
 Solo matrices simétricas positivas definidas.
@@ -29,7 +28,7 @@ int main(void){
     clock_t t = clock();
     double time,er;
     FILE    *fptr;
-    fptr = fopen("M_sys_125x125.txt", "r");
+    fptr = fopen("A.txt", "r");
     fscanf(fptr, "%d %d", &n,&m);
     fclose(fptr);
     double **A = (double **)malloc(n*sizeof(double*));
@@ -37,8 +36,8 @@ int main(void){
     double *x = (double *)malloc(n*sizeof(double));
 
 
-    readmatrix(n, m, A, "M_sys_125x125.txt");
-    readvector(n, b, "V_sys_125x1.txt");
+    readmatrix(n, m, A, "A.txt");
+    readvector(n, b, "b.txt");
     gradienteCPre(n,A,b,x, 10e-10);
     writevector(n,x,"x.txt");
     er = error(n,A,x,b);
