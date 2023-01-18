@@ -1,7 +1,6 @@
 /*********************************************
 Alan García Zermeño
-Para el curso de métodos numéricos.
-CIMAT 20/9/2022
+20/9/2022
 Resuelve sistemas Ax=b usando Gradiente Conjugado.
 Solo matrices simétricas positivas definidas.
 *********************************************/
