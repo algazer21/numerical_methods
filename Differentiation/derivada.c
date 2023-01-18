@@ -1,7 +1,6 @@
 /**************************************************************
                     Alan García Zermeño
-             Para el curso de métodos numéricos.
-                     CIMAT 17/11/2022
+                        17/11/2022
     Deriva una funcion interpolada con polinomios de Lagrange
                     hasta tercer orden. 
 ***************************************************************/
